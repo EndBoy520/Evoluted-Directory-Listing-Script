@@ -1,4 +1,4 @@
-Evoluted Directory Listing Script
+Evoluted Directory Listing Script 4.0.5 汉化版
 ==================================
 
 
